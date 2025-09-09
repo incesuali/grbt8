@@ -24,4 +24,3 @@ Proje çalıştırıldıktan sonra tarayıcınızda görüntüleyebilirsiniz.
 - Next.js
 - React
 - TypeScript
-```
